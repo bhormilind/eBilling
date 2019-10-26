@@ -7,3 +7,4 @@ Master branch ---> Change1.
 DevP1 branch --> Change1.
 
 DevP1 branch --> Change2.
+Master branch ---> Change2.
